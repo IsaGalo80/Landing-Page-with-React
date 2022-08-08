@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "./Navbar.jsx";
 import Jumbotron from "./Jumbotron.jsx";
 import Card from "./Card.jsx";
+import Footer from "./Footer.jsx";
 
 
 // //include images into your bundle
@@ -14,6 +15,7 @@ const Home = () => {
 		<Navbar/>
 		<Jumbotron/>
 		<Card/>
+		<Footer/>
 		</div>
 	);
 };

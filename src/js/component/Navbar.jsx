@@ -6,7 +6,7 @@ const Navbar = () => {
 	return (
         
 <nav class="navbar navbar-expand-lg bg-black">
-    <div className="container pb-1 ">
+    <div className="container pt-1 mb-1" style={{  height:'2rem'}}>
         <div className = "row">
         <div className="col-8 ">
             <div class="container-fluid">
